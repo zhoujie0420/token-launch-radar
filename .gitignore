@@ -1,0 +1,8 @@
+token-radar-01-kit/
+kit.tar.gz
+requirements.json
+out/
+transcripts*.tar.gz
+.env
+node_modules/
+.DS_Store
